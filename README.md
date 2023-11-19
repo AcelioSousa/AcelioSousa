@@ -3,7 +3,7 @@
 ## Sobre Mim
 Sou um entusiasta de Machine Learning, Otimização e Matemática, sempre buscando explorar e aprimorar meu conhecimento nessas áreas fascinantes.
 - 📊 Trabalhando no laboratório de inteligência artificial do IFCE
-- 📚 Atualmente estudando inteligência artificial## Olá 👋
+- 📚 Atualmente estudando inteligência artificial
 - 🔭 Explorando projetos relacionados a Machine Learning e Otimização.
 - 🌱 Aprendendo continuamente e buscando desafios empolgantes.
 - 💬 Converse comigo sobre Machine Learning, Otimização ou qualquer tópico matemático que te interesse.
