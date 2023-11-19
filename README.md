@@ -10,8 +10,11 @@ Sou um entusiasta de Machine Learning, Otimização e Matemática, sempre buscan
 
 ## Habilidades
 - Linguagens de Programação: Python, MATLAB.
-- Ferramentas e Tecnologias: Pytorch, TensorFlow, scikit-learn, Pulp, Git.
+- Ferramentas e Tecnologias: Numpy, Pytorch, TensorFlow, scikit-learn, Pulp,cvxopt, Git.
 - Áreas de Interesse: Machine Learning, Otimização, Matemática Aplicada.
+## Contato
+- LinkedIn: Acelio Sousa
+## Agradecimento
 
 Obrigado por visitar meu perfil! Estou animado para compartilhar e colaborar em projetos interessantes. Sinta-se à vontade para entrar em contato!
 
@@ -29,6 +32,6 @@ Obrigado por visitar meu perfil! Estou animado para compartilhar e colaborar em 
  
   <a href="underconstruction" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="underconstruction" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="[link-para-o-seu-linkedin](https://www.linkedin.com/in/acelio-sousa-7a805821b/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="()" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
